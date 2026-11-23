@@ -1,10 +1,11 @@
-<h1 align="center">Hola 👋, soy Renato Santiago</h1>
-<h3 align="center">Backend Developer Junior | Laravel & PHP</h3>
+<h1 align="center">Hi, I'm Renato Santiago</h1>
+<h3 align="center">Junior Backend Developer** | Laravel · PHP · REST APIs
+📍 Peru · 🌎 Open to 100% remote roles (international)</h3>
 
 <p align="center">
-Desarrollador Backend Junior especializado en Laravel y PHP.<br>
-Experiencia en desarrollo de APIs REST, bases de datos y arquitectura MVC.<br>
-Interesado en oportunidades 100% remotas a nivel internacional.
+I build web applications with Laravel and React. After a break for health recovery<br>
+I'm back to coding and looking for my first full-time role in a remote team.<br>
+
 </p>
 
 ---
@@ -54,6 +55,19 @@ Interesado en oportunidades 100% remotas a nivel internacional.
 </p>
 
 ---
+## 📌 Featured Projects
+
+- [LaravelReactInertiaApi2](https://github.com/RenatoSantirs/LaravelReactInertiaApi2)
+REST API with 20 endpoints, token authentication, role-based access control, and a React + Inertia.js frontend. Includes automated tests (Pest), Docker setup and CI with GitHub Actions.
+
+- [TiendaLaravelBlade](https://github.com/RenatoSantirs/TiendaLaravelBlade)
+Online store built with Laravel and Blade: users, roles, product CRUD, dynamic search and sales statistics.
+
+## 📚 Currently Learning
+
+- Automated testing with Pest
+- Payment integrations (Mercado Pago)
+- Technical English for interviews
 
 ### 🌍 Idiomas
 - Español: Nativo  
@@ -64,8 +78,5 @@ Interesado en oportunidades 100% remotas a nivel internacional.
 
 ### 📫 Contacto
 - 📧 Email: **renatojesussantiago98@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/renato-santiago-sedano  
 
 ---
-
-⭐ Gracias por visitar mi perfil
