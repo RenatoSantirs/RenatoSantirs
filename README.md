@@ -10,7 +10,7 @@ I'm back to coding and looking for my first full-time role in a remote team.<br>
 
 ---
 
-### 🧑‍💻 Sobre mí
+### 🧑‍💻 About Me
 - 💻 Backend with Laravel & PHP
 - 🔧 REST API development
 - 🗄️ Relational and NoSQL databases
