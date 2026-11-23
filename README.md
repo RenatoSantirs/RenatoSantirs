@@ -11,16 +11,16 @@ I'm back to coding and looking for my first full-time role in a remote team.<br>
 ---
 
 ### 🧑‍💻 Sobre mí
-- 💻 Backend con **Laravel & PHP**
-- 🔧 Desarrollo de **APIs REST**
-- 🗄️ Bases de datos relacionales y NoSQL
-- 🐳 Uso de **Docker** para entornos de desarrollo
-- ⚛️ Integración frontend con **Inertia.js y React**
-- 🌍 Abierto a trabajo remoto internacional
+- 💻 Backend with Laravel & PHP
+- 🔧 REST API development
+- 🗄️ Relational and NoSQL databases
+- 🐳 Using Docker for development environments
+- ⚛️ Frontend integration with Inertia.js and React
+- 🌍 Open to international remote work
 
 ---
 
-### 🛠️ Lenguajes y Herramientas
+### 🛠️ Languages and Tools
 
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
@@ -71,7 +71,7 @@ Online store built with Laravel and Blade: users, roles, product CRUD, dynamic s
 
 ### 🌍 Idiomas
 - Español: Nativo  
-- Inglés: Intermedio (B1)  
+- English: Intermedio (B1)  
 - Italiano: Básico (A2)
 
 ---
