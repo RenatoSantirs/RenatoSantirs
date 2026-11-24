@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Renato Santiago</h1>
-<h3 align="center">Junior Backend Developer** | Laravel · PHP · REST APIs
+<h3 align="center">Junior Backend Developer| Laravel · PHP · REST APIs
 📍 Peru · 🌎 Open to 100% remote roles (international)</h3>
 
 <p align="center">
